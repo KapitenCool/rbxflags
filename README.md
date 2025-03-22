@@ -14,7 +14,7 @@
 <h5 align="center">https://www.roblox.com/groups/34911020/FIVE55</h5>
 
 <h4 align="center">Repository Discussions</h4>
-<h5 align="center">https://github.com/luafv/rbxflags/discussions</h5>
+<h5 align="center">https://github.com/KapitenCool/rbxflags/discussions</h5>
 
 
 > [!CAUTION]
