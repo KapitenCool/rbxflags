@@ -31,7 +31,7 @@
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
-1. **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) or [Fishstrap Menu](https://github.com/returnrqt/fishstrap).**
+1. **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) or [Fishstrap](https://github.com/returnrqt/fishstrap) Menu.**
 2. **Navigate to `Fast Flags` >> `Fast Flags Editor` >> `Add New` >>  `Import Json`.**
 3. **Paste in the JSON.**
 4. **Save and your good to go!**
